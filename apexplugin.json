@@ -1,0 +1,33 @@
+{
+  "name" : "Star Rating",
+  "version" : "1.0",
+  "description" : "Easy to use, flexible item plugin to capture and render star ratings. Chock full of settings, based on the Rate Yo! jQuery plugin.",
+  "keywords" : ["Rate Yo", "Star Rating", "jQuery"],
+  "homepage" : "https://github.com/laurestonapex/star-rating",
+  "bugs" : {
+    "url" : "https://github.com/laurestonapex/star-rating/issues",
+    "email" : "mskamene@laureston.ca"
+  },
+  "license" : "GPL",
+  "author" : {
+    "name" : "Laureston Solutions",
+    "email" : "mskamene@laureston.ca",
+    "url" : "http://www.laureston.ca"
+    "twitter" : "Laurestonapex"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/laurestonapex/star-rating"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["18.2.0", "18.1.0"],
+      "plugin" : {
+        "internalName" : "LAURESTON.STARRATING",
+        "type" : "item",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=96007:1",
+        "previewImage" : "https://github.com/laurestonapex/star-rating/blob/master/starrating-1.gif"
+      }
+    }
+  }
