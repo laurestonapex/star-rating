@@ -24,11 +24,11 @@ Settings include:
 
 **Star SVG**: This option can be given during the plugin initialization only, to replace the current star with a custom shape
 
-### Installation
+## Installation
 
 Import file item_type_plugin_laureston_starrating.sql into your APEX application in Shared Components --> Plugins
 
-### Demo Application
+## Demo Application
 
 https://apex.oracle.com/pls/apex/f?p=96007:1
 
