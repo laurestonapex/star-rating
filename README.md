@@ -7,13 +7,21 @@ Oracle APEX plugin for APEX 18 and above. This plugin allows users to capture an
 Settings include:
 
 **Star Width**: The width of each star, in pixels.The width of a star is always equal to its height.
+
 **Normal Fill**: The background color for the un-rated part of a star.
+
 **Color Type**: Available options include: Single, MultiColor. If Multicolor is selected, Start Color and End Color must be specified
+
 **Rated Fill**: The color for the rated part of a star. NOTE: This option will not work when Multi Color option is set.
+
 **Number of Stars**: Number of stars to use
+
 **Selection Type**: Available options include: Full Star, Half Star, Precision. When 'Precision' is selected, precision level must be specified
+
 **Spacing**: The amount of space between stars in pixels
+
 **Right to Left**: Render the rating Right to Left.
+
 **Star SVG**: This option can be given during the plugin initialization only, to replace the current star with a custom shape
 
 ### Installation
