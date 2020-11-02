@@ -32,4 +32,8 @@ Import file item_type_plugin_laureston_starrating.sql into your APEX application
 
 https://apex.oracle.com/pls/apex/f?p=96007:1
 
+## About the Developer
+
+Michelle Skamene is an Oracle APEX Consultant at https://www.insum.ca
+
 
